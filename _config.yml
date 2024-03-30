@@ -97,11 +97,11 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: apollo
+theme: tranquilpeak
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
   repo: https://github.com/tms-byte/tms-blog/
-  branch: origin
+  branch: main
