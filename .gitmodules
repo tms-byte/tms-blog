@@ -1,3 +1,3 @@
-[submodule "themes/apollo"]
-path = themes/apollo
-url = https://github.com/tea3/hexo-theme-apollo
+[submodule "themes/landscape"]
+path = themes/landscape
+url = https://github.com/hexojs/hexo-theme-landscape.git
