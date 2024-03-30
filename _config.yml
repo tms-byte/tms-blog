@@ -14,7 +14,7 @@ timezone: 'japan'
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: http://tms-byte.github.io/tms-blog/
-root: /
+root: ./
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -104,4 +104,4 @@ theme: landscape
 deploy:
   type: 'git'
   repo: https://github.com/tms-byte/tms-blog/
-  branch: main
+  branch: blog-folder
